@@ -1,6 +1,5 @@
 Change T
 Original
-Change Git
 using System;
 using System.Collections.Generic;
 using System.Linq;
